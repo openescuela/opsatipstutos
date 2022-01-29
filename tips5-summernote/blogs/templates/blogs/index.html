@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="utf-8">
+  <title></title>
+</head>
+<body>
+  <h1> This is my blog </h1>
+  {% for project in projects %}
+  <h2>{{project.name}}</h2>
+  {{project.content|safe}}
+  {% endfor %}
+
+  <h1>First form</h1>
+  <form class="" action="index.html" method="post">
+      {{firstform.as_p}}
+  </form>
+
+  <h1>Second form</h1>
+  <form class="" action="index.html" method="post">
+      {{secondform.as_p}}
+  </form>
+</body>
+</html>
