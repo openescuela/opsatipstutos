@@ -1,0 +1,72 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-01-31 17:29+0000\n"
+"PO-Revision-Date: 2022-01-31 17:32+0000\n"
+"Last-Translator:   <>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Translated-Using: django-rosetta 0.9.8\n"
+
+#: blogs/models.py:23
+msgid "Your email address will not be published"
+msgstr "Votre adresse e-mail ne sera pas publiée"
+
+#: blogs/models.py:23
+msgid "Email"
+msgstr "E-mail"
+
+#: blogs/models.py:24
+msgid "Name"
+msgstr "Nom"
+
+#: blogs/models.py:25
+msgid "Message"
+msgstr "Message"
+
+#: blogs/templates/blogs/index.html:38
+msgid "World"
+msgstr "Monde"
+
+#: blogs/templates/blogs/index.html:39
+msgid "Technology"
+msgstr "Technologie"
+
+#: blogs/templates/blogs/index.html:40
+msgid "Politics"
+msgstr "Politique"
+
+#: blogs/templates/blogs/index.html:41
+msgid "Science"
+msgstr "Science"
+
+#: blogs/templates/blogs/index.html:42
+msgid "Travel"
+msgstr "Voyage"
+
+#: blogs/templates/blogs/index.html:57
+msgid "Go"
+msgstr "Aller"
+
+#: blogs/templates/blogs/index.html:70 blogs/templates/blogs/index.html:83
+msgid "Continue reading"
+msgstr "Continuer la lecture"
+
+#: blogs/templates/blogs/index.html:98
+msgid "Contact me"
+msgstr "Contactez moi"
+
+#: blogs/templates/blogs/index.html:101
+msgid "Submit"
+msgstr "Envoyer"
